@@ -1,0 +1,7 @@
+langchain-openrouter
+langchain
+deepagents
+pandas
+pydantic
+requests
+annotated-types
